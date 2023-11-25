@@ -1,0 +1,3 @@
+Bjarne-Stroustop
+James-Gosling
+Linus-Trovalds
